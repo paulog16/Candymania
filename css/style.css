@@ -319,7 +319,6 @@ ul li a {
 }
 
 .button {
-
     position: relative;
     padding: 10px 20px;
     border-radius: 7px;
@@ -437,6 +436,7 @@ form {
     color: white;
     border-radius: 10px;
     box-shadow: 5px 5px 5px white;
+    cursor: pointer;
 }
 
 @media(min-width:700px) and (max-width:1024px) {
